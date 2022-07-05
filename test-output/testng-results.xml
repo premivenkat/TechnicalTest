@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71538" started-at="2022-07-05T11:28:41Z" finished-at="2022-07-05T11:29:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71538" started-at="2022-07-05T11:28:41Z" finished-at="2022-07-05T11:29:52Z">
+      <class name="com.testcases.MultiBrowser">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="setUp" is-config="true" duration-ms="21397" started-at="2022-07-05T12:28:19Z" finished-at="2022-07-05T12:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ApplicationHomePage()[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="ApplicationHomePage" duration-ms="44069" started-at="2022-07-05T12:28:41Z" finished-at="2022-07-05T12:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationHomePage -->
+        <test-method status="PASS" signature="search()[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="search" duration-ms="5305" started-at="2022-07-05T12:29:25Z" finished-at="2022-07-05T12:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="holidayTrip()[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="holidayTrip" duration-ms="2698" started-at="2022-07-05T12:29:30Z" finished-at="2022-07-05T12:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- holidayTrip -->
+        <test-method status="PASS" signature="bookOnline()[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="bookOnline" duration-ms="4930" started-at="2022-07-05T12:29:33Z" finished-at="2022-07-05T12:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookOnline -->
+        <test-method status="PASS" signature="passengerDetails()[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="passengerDetails" duration-ms="14510" started-at="2022-07-05T12:29:38Z" finished-at="2022-07-05T12:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passengerDetails -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.testcases.MultiBrowser@7f9a81e8]" name="end" is-config="true" duration-ms="849" started-at="2022-07-05T12:29:52Z" finished-at="2022-07-05T12:29:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.testcases.MultiBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

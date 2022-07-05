@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Resources/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Resources/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="Resources/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Resources/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="Resources/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Resources/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="Resources/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="Resources/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="Resources/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="Resources/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="Resources/json-20210307.jar"/>
+	<classpathentry kind="lib" path="Resources/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Resources/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="Resources/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="Resources/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="Resources/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="Resources/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="Resources/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Resources/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="Resources/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="Resources/json-path-4.3.0.jar"/>
+	<classpathentry kind="lib" path="Resources/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="Resources/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="Resources/rest-assured-common-4.3.0.jar"/>
+	<classpathentry kind="lib" path="Resources/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="Resources/xml-path-4.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
